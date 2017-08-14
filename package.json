@@ -1,0 +1,20 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "This app will let you find perfect friend matches",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushik145/friend-finder.git"
+  },
+  "author": "Kaushik Devulapalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushik145/friend-finder/issues"
+  },
+  "homepage": "https://github.com/kaushik145/friend-finder#readme"
+}
